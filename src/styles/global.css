@@ -44,10 +44,11 @@ body {
 	line-height: 1.75;
 }
 main {
-	width: 660px;
-	max-width: calc(100% - 2em);
+	width: 100%;
+	max-width: 660px;
 	margin: auto;
 	padding: 3em 1em;
+	box-sizing: border-box;
 }
 h1,
 h2,
