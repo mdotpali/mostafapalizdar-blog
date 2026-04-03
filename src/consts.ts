@@ -1,5 +1,5 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Astro Blog';
-export const SITE_DESCRIPTION = 'Welcome to my website!';
+export const SITE_TITLE = 'Mostafa Palizdar';
+export const SITE_DESCRIPTION = 'Senior .NET developer writing about C#, software architecture, and the craft of building systems.';
